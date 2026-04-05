@@ -55,8 +55,8 @@ src/
 
 **1. Clone o repositório:**
 ```bash
-git clone https://github.com/Fel1324/ApiGerenciadorDeTarefas.git
-cd ApiGerenciadorDeTarefas
+git clone https://github.com/FernandoCyber3/Api-Gerenciamento-de-Tarefas-com-Node.js.git
+cd Api-Gerenciamento-de-Tarefas-com-Node.js
 ```
 
 **2. Instale as dependências:**
